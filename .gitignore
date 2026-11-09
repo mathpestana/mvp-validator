@@ -1,0 +1,21 @@
+# Segredos
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Node
+node_modules/
+.next/
+
+# Dados gerados pelas execuções
+dados/
+screenshots/
+
+# Sistema
+.DS_Store
+Thumbs.db
